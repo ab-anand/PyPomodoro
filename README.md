@@ -8,3 +8,8 @@ The main premise behind the technique is to work in blocks of time, typically 25
 The result is greatly improved productivity during focused work sessions, that can be maintained through effectively managing           distractions and taking regular breaks.
 
 - Source: [Pomodoro](https://www.focusboosterapp.com/the-pomodoro-technique)
+
+## How it works?
+
+Clone the repository, install the requirements and run pomodoro.py.
+After running you will get this.
