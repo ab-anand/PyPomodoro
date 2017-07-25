@@ -13,3 +13,6 @@ The result is greatly improved productivity during focused work sessions, that c
 
 Clone the repository, install the requirements and run pomodoro.py.
 After running you will get this.
+![Stage 1](pomodoro1.JPG)
+
+![Stage 2](pomodoro2.png)
