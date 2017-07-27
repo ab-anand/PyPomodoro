@@ -18,5 +18,6 @@ After running you will get this.
 ![Stage 2](pomodoro2.png)
 
 
-After 20 minutes
-![](pomodoro3.png)
+### After 20 minutes
+
+![Stage3](pomodoro3.png)
