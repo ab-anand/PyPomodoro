@@ -16,3 +16,7 @@ After running you will get this.
 ![Stage 1](pomodoro1.JPG)
 
 ![Stage 2](pomodoro2.png)
+
+
+After 20 minutes
+![](pomodoro3.png)
