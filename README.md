@@ -21,3 +21,8 @@ After running you will get this.
 ### After 20 minutes
 
 ![Stage3](pomodoro3.png)
+
+### After 5 minutes
+It will give a <i> Back to work </i> notification.
+
+#### Once the above process has repeated 4 times, it will give you a 20 minutes break.
